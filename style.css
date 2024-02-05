@@ -27,7 +27,7 @@ body {
 
   background-color: var(--bgColor);
   font-family: 'Inter', sans-serif;
-  transition: background-color 0.1s;
+  /* transition: background-color 0.1s; */
 }
 
 .card-container {
@@ -46,7 +46,7 @@ body {
   justify-content: center;
   gap: 1rem;
 
-  transition: all 0.5s ease-out;
+  /* transition: all 0.5s; */
 }
 
 .card-container:hover {
